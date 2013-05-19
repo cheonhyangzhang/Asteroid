@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Oct 22 14:07:54 CDT 2012
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=false
+onejar.checkbox=false
+jarname=C\:\\dev\\AsteroidBase06\\AsteroidBase06_fat.jar
+manifest.mergeall=false
+manifest.mainclass=edu.uchicago.cs.java.finalproject.controller.Game
+manifest.file=META-INF\\manifest
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
