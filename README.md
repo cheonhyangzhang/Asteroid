@@ -10,6 +10,7 @@ weapons, more challenging enemies.
 
 Note: This java project uses Java Window Builder. So in order to run it, Window Builder is required.
 There is also a Demo video in the respository.
+To watch the Demo in youtube, please visit http://www.youtube.com/watch?v=k0Z5vpEOEdM
 
 Feel free to contact me,
 cenhiangapply@gmail.com
